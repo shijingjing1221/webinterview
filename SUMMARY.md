@@ -9,5 +9,6 @@
 * [兼容性、性能优化与安全](jian-rong-xing-yu-ji-neng-you-hua.md)
   * 性能优化
   * 兼容性
-  * 安全
+  * [安全](jian-rong-xing-yu-ji-neng-you-hua/an-quan.md)
+* [实践类的题目](shi-jian-lei-de-ti-mu.md)
 
